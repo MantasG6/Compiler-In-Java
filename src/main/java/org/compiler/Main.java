@@ -1,4 +1,4 @@
-package org.main;
+package org.compiler;
 
 public class Main {
     public static void main(String[] args) {
